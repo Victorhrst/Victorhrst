@@ -1,10 +1,10 @@
 <div align="center">
 
 
-# Hello, I'm Victor Hristea welcome on my Github account!
+# Hello, I'm Victor Hristea! Welcome to my GitHub account!
 
 I'm a French student at **Epitech**  
-Passionate about **web development and data**.
+Passionate about **web development and working with data.**.
 
 ---
 
@@ -31,25 +31,24 @@ Passionate about **web development and data**.
 ---
 
 ### Recent Projects
-**R-Type Multiplayer Game** : Development of a multiplayer online game inspired by the classic R-Type.
+**R-Type Multiplayer Game** : Developed a multiplayer online game inspired by the classic R-Type.
 
-**Trello-like Task Manager** : A web application for task management with React, FastAPI and PostgreSQL.
+**Trello-like Task Manager** : Created a task management web application.
 
-**Area** : A Website that functions similarly to IFTTT or Zapier.
+**Area** : Built a website functioning similarly to IFTTT or Zapier.
 
 ---
 ### Work Experience
 
 <img src="https://github.com/user-attachments/assets/ccd017c3-f8f8-4031-beef-16ca6b66ea05" alt="BRD" width="100" height="95">
 
-Arhitect BI Trainee
-
-at [BRD - Groupe Société Générale](https://www.brd.ro/en)
+Worked at [BRD - Groupe Société Générale](https://www.brd.ro/en) as a BI Architect Trainee
 
 ---
 
 ### Find Me Here
 💼 [LinkedIn](https://www.linkedin.com/in/victor-hristea-23530727a/)
+
 📫 **Email** : [victorhristea@gmail.com](mailto:victorhristea@gmail.com)
 
 </div>
